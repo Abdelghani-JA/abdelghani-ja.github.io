@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200mm" height="200mm" viewBox="0 0 200 200">
+  <g transform="translate(.265 -97.265)">
+    <rect width="188.83" height="188.83" x="6.588" y="104.118" ry="8.843" style="opacity:1;fill:#000;fill-opacity:1;stroke:#000;stroke-width:2.83245373;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"/>
+    <rect width="188.83" height="188.83" x="4.052" y="101.581" ry="8.843" style="opacity:1;fill:#d0fbea;fill-opacity:1;stroke:#000;stroke-width:2.83245373;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"/>
+    <path d="M67.791 230.934 31.937 195.08l35.854-35.854" style="fill:none;fill-opacity:1;stroke:#000;stroke-width:8.68747997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" transform="translate(-12.835 -27.288)scale(1.15108)"/>
+    <path d="m125.595 230.934 35.854-35.854-35.854-35.854" style="fill:none;stroke:#000;stroke-width:8.68747997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" transform="translate(-12.835 -27.288)scale(1.15108)"/>
+    <path d="M147.86 103.368h8.213V209.85h-8.213z" style="opacity:1;fill:#000;fill-opacity:1;stroke:none;stroke-width:3.78417468;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" transform="rotate(17.513 82.162 -55.306)scale(1.15108)"/>
+  </g>
+</svg>
