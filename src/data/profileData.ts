@@ -8,7 +8,7 @@ export const projects: Project[] = [
     title: "My Portfolio",
     description:
       "My personal website you're visiting now, ready to be customized.",
-    moreUrl: "https://github.com/Abdelghani-JA/fso-typescript/",
+    moreUrl: "https://github.com/Abdelghani-JA/abdelghani-ja.github.io",
   },
   {
     key: 2,
